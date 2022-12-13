@@ -1,4 +1,4 @@
-text = input("Введіть текст")
+text = input("Введіть текст").lower()
 
 textL = len(text)
 
